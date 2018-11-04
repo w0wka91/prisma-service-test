@@ -1,0 +1,6 @@
+endpoint: http://139.59.185.230:4466/prisma-service-test/dev
+datamodel: datamodel.prisma
+
+generate:
+  - generator: typescript-client
+    output: ./generated/prisma-client/

@@ -1,0 +1,9 @@
+{
+  "name": "prisma-service-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "^1.19.3"
+  }
+}
